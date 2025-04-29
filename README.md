@@ -12,7 +12,6 @@ Este repositorio muestra cómo optimizar consultas SQL utilizando **Common Table
 - [Casos de Uso Recomendados](#casos-de-uso-recomendados)
 - [Herramientas para Analizar y Optimizar Consultas](#herramientas-para-analizar-y-optimizar-consultas)
 - [Buenas Prácticas](#buenas-prácticas)
-- [Recursos Adicionales](#recursos-adicionales)
 
 ---
 
@@ -98,15 +97,6 @@ El tiempo de ejecución pasó de **90 segundos** a solo **18 segundos**.
 - Analiza siempre el plan de ejecución.
 - Usa índices en columnas clave de filtros y joins.
 - Documenta tus consultas.
-
----
-
-## Recursos Adicionales
-
-- [CTEs en SQL Server](https://learn.microsoft.com/es-es/sql/t-sql/queries/with-common-table-expression-transact-sql)
-- [CTEs en PostgreSQL](https://www.postgresql.org/docs/current/queries-with.html)
-- [Optimización de BigQuery](https://cloud.google.com/bigquery/query-optimization)
-- [Cómo leer un Execution Plan](https://www.sqlshack.com/how-to-read-sql-server-execution-plans/)
 
 ---
 
