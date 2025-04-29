@@ -1,0 +1,1 @@
+# Optimizaci-n-de-Consultas-SQL-con-CTEs-Reduce-el-Tiempo-de-Ejecuci-n-hasta-un-80-
